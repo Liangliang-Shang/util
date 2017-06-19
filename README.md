@@ -1,2 +1,2 @@
 # util
-all kinds of utilities, tricks, best practice
+Best practice/tricks on all kinds of utilities like Markdown, GIT
